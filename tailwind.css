@@ -1,7 +1,0 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-
-
-.wrapper { @apply flex flex-col min-h-screen justify-center items-center text-8xl; } 
