@@ -4,4 +4,6 @@
 
 
 
-.wrapper { @apply flex flex-col min-h-screen justify-center items-center text-8xl text-indigo-800; } 
+.wrapper { 
+  @apply flex flex-col min-h-screen justify-center items-center text-8xl text-indigo-800; 
+} 
